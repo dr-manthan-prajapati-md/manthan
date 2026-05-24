@@ -31,6 +31,10 @@ body {
     font-size: 1.5rem;
     font-weight: bold;
 }
+.logo a{
+    color: #fff;
+    text-decoration: none;
+}
 
 .nav-menu {
     display: flex;
